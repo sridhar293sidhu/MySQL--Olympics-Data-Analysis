@@ -40,12 +40,14 @@ Olympics Dataset Analysis
 ![image](https://github.com/user-attachments/assets/a3b8fc08-ebf0-4b82-8338-2eace9374ea9)
 
 7. Which Sports were just played only once in the olympics.
- ![image](https://github.com/user-attachments/assets/f8c8fdce-5ea3-406e-ab24-e4806f77b83f)
+
+![image](https://github.com/user-attachments/assets/f8c8fdce-5ea3-406e-ab24-e4806f77b83f)
 
 8. Fetch the total no of sports played in each olympic games.
  ![image](https://github.com/user-attachments/assets/d3a960b8-0f71-4c47-966e-288f7136a036)
 
 9. Fetch oldest athletes to win a gold medal
+
  ![image](https://github.com/user-attachments/assets/98ed09e0-573b-40f7-a299-99de855d52ea)
 
 10. Find the Ratio of male and female athletes participated in all olympic games.
