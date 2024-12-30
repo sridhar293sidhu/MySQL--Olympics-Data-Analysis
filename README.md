@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/05462dd6-944b-4aea-a481-4ade86532574)# MySQL--Olympics-Data-Analysis
+# MySQL--Olympics-Data-Analysis
 MySQL Olympics Data Analysis
 
 # Project Overview:
